@@ -1,0 +1,14 @@
+{
+  "student": "Mohmmad Asharaf Harun Shaikh",
+  "internship": "Virtual Data Science with Python Apprentice Intern",
+  "report_dates": {
+    "1": "01 September 2026",
+    "2": "03 September 2026",
+    "3": "05 September 2026",
+    "4": "08 September 2026",
+    "5": "10 September 2026"
+  },
+  "dataset": "Scikit-learn Wine Recognition dataset",
+  "weeks": 5,
+  "repository_name": "virtual-data-science-python-apprentice"
+}
